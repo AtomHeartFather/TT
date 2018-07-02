@@ -1,14 +1,15 @@
-<?php
-
-return [
-    'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=yii2basic',
-    'username' => 'root',
-    'password' => '',
-    'charset' => 'utf8',
-
-    // Schema cache options (for production environment)
-    //'enableSchemaCache' => true,
-    //'schemaCacheDuration' => 60,
-    //'schemaCache' => 'cache',
-];
+<p><?php</br>
+</br>
+return [</br>
+    'class' => 'yii\db\Connection',</br>
+    'dsn' => 'mysql:host=localhost;dbname=yii2basic',</br>
+    'username' => 'root',</br>
+    'password' => '',</br>
+    'charset' => 'utf8',</br>
+</br>
+    // Schema cache options (for production environment)</br>
+    //'enableSchemaCache' => true,</br>
+    //'schemaCacheDuration' => 60,</br>
+    //'schemaCache' => 'cache',</br>
+];</br>
+</p>
